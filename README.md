@@ -1,2 +1,2 @@
 # ResearchDocumentation
-Documentation about my research program
+Documentation about the research program of Prof. Darin Acosta
