@@ -5,7 +5,7 @@ Documentation about the research program of Prof. Darin Acosta
 
 ## Bio
 I am a Professor in the [Department of Physics & Astronomy](https://physics.rice.edu/) at [Rice University](https://rice.edu/). My research program is in experimental particle physics, currently focused on the [CMS experiment](https://cms.cern/) at the [CERN Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider).
-- My CV
+- [Curriculum Vitae](Acosta-CV-2.pdf)
 
 ## Recent publications
 1. D. Acosta and W. Li, “A Muon-Ion Collider at BNL: the future QCD frontier and path to a new energy frontier of muon-antimuon colliders”, [Nuclear Inst. and Methods in Physics Research A 1027 (2022) 166334](https://doi.org/10.1016/j.nima.2022.166334)
