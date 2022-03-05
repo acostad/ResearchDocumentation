@@ -1,6 +1,6 @@
 # Darin Acosta's Research Program
 Documentation about the research program of Prof. Darin Acosta
-![DA image](Darin_Acosta_photo_cms.jpeg)
+![DA image](Darin_Acosta_photo_cms-sm.jpeg)
 
 ## Table of Contents
 
