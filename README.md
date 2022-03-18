@@ -1,15 +1,14 @@
 # Darin Acosta's Research Program
-Documentation about the research program of Prof. Darin Acosta
 ![DA image](Darin_Acosta_photo_cms-sm.jpeg)
-
-## Table of Contents
+Documentation about the research program of Prof. Darin Acosta
 
 ## Bio
 I am a Professor in the [Department of Physics & Astronomy](https://physics.rice.edu/) at [Rice University](https://rice.edu/). My research program is in experimental particle physics, currently focused on the [CMS experiment](https://cms.cern/) at the [CERN Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider).
 - [Curriculum Vitae](Acosta-CV-2.pdf)
 
 ## Projects
-- Endcap Muon Track-Finder [Documentation](https://github.com/jiafulow/emtf-resources-page)
+- L1 Muon Trigger of CMS
+  - Endcap Muon Track-Finder [Documentation](https://github.com/jiafulow/emtf-resources-page)
 
 ## Recent publications
 1. D. Acosta, E. Barberis, N. Hurley, W. Li, O. Miguel Colin, D. Wood, X. Zuo, “The Potential of a TeV-Scale Muon-Ion Collider”, [arXiv:2203.06258](https://arxiv.org/abs/2203.06258) (2022)
