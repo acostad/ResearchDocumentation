@@ -1,4 +1,4 @@
-# Darin Acosta's Research Program
+# Prof. Darin Acosta's Research Program & Teaching
 ![DA image](Darin_Acosta_photo_cms-sm.jpeg)
 Documentation about the research program of Prof. Darin Acosta
 
@@ -6,7 +6,7 @@ Documentation about the research program of Prof. Darin Acosta
 I am a Professor in the [Department of Physics & Astronomy](https://physics.rice.edu/) at [Rice University](https://rice.edu/). My research program is in experimental particle physics, currently focused on the [CMS experiment](https://cms.cern/) at the [CERN Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider).
 - [Curriculum Vitae](Acosta-CV-2.pdf)
 
-## Projects
+## Research Projects
 - L1 Muon Trigger of CMS
   - Endcap Muon Track-Finder [Documentation](https://github.com/jiafulow/emtf-resources-page)
 
@@ -17,6 +17,7 @@ I am a Professor in the [Department of Physics & Astronomy](https://physics.rice
 4. A.M. Sirunyan et al. (CMS Collaboration), “Performance of the CMS Level-1 trigger in proton-proton collisions at √s = 13 TeV”, [Journal of Instrumentation, 15, P10017 (2020)](https://doi.org/10.1088/1748-0221/15/10/P10017)
 5. A.M. Sirunyan et al. (CMS Collaboration), “The Phase-2 Upgrade of the CMS Level-1 Trigger”, [CERN-LHCC-2020-004; CMS-TDR-021](https://cds.cern.ch/record/2714892?ln=en) 
 
+## Physics Lectures
 
 
 
